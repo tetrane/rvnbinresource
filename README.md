@@ -1,4 +1,4 @@
-# rvnbinresource: a library to write and read binary resources for REVEN.
+# rvnbinresource: a library to write and read binary resources for Reven.
 
 ## License
 
